@@ -6,7 +6,7 @@ public class Main {
         boolean isRunning = true;
         Scanner console = new Scanner(System.in);
 
-        String[] jokes = {"My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.", "How are false teeth like stars? They come out at night!", "Why are skeletons so calm? Because nothing gets under their skin.", "I got fired from a florist, apparently I took too many leaves.", "Q: What’s 50 Cent’s name in Zimbabwe? A: 200 Dollars."};
+        String[] jokes = {"Hvorfor blev blondinen glad for at samle et pusslespil på 6 måneder? Fordi der stod 2-4 år", "My new thesaurus is terrible. In fact, it's so bad, I'd say it's terrible.", "How are false teeth like stars? They come out at night!", "Why are skeletons so calm? Because nothing gets under their skin.", "I got fired from a florist, apparently I took too many leaves.", "Q: What’s 50 Cent’s name in Zimbabwe? A: 200 Dollars."};
 
 
         Random r = new Random();
